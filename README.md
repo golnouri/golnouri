@@ -20,3 +20,10 @@ A collaborative mindset, always eager to work with teams and contribute to open-
 Let’s Connect
 
 I’m always open to new opportunities, collaborations, and discussions about technology. Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect or work together!
+
+M   O   J   T   A   B   A   G   O   L   N   O   U   R   I
+@@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@
+ @   @   @   @   @   @   @   @   @   @   @   @   @   @   @
+ @   @   @   @   @   @   @   @   @   @   @   @   @   @   @
+ @   @   @   @   @   @   @   @   @   @   @   @   @   @   @
+@@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@ @@@
