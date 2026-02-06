@@ -1,48 +1,16 @@
-# Hello there! 👋
+# Hello there 👋
+I'm Mojtaba Golnouri, an amateur programmer from the dinosaur generation who started coding years ago when building websites and multimedia software was much harder than it is today. Over the years I’ve worked on many personal and professional projects, mostly focused on web applications, backend systems, and practical tools that solve real problems. I enjoy building things that are simple, useful, and reliable.
 
-I'm Mojtaba Golnouri, a full-stack .NET developer interested in building web applications, utilities, and practical tools.
+## Skills
+- ASP.NET Core  
+- C#  
+- SQL Server  
 
-Welcome to my GitHub profile. Here you can find some of my projects and experiments.
+## About Me
+I have experience in web development, backend systems, real-time applications, and software architecture.  
+I’ve worked both as a freelancer and in companies, contributing to different types of systems including portals, business tools, and custom applications.
+I’m always interested in learning, improving my skills, and building useful software.
 
----
-
-## 🔧 Technologies & Interests
-- ASP.NET Core
-- C#
-- JavaScript
-- SQL Server & SQLite
-- Windows Forms
-- Web Development
-
----
-
-## 📦 Popular Projects
-
-### JQuery-text-slider
-Examples of small UI projects.
-
-### Convert-Mbox-to-json
-Convert Gmail .mbox files to JSON using C#.
-
-### Client-Side-Pagination
-Client side pagination in JavaScript.
-
-### Server-Side-Pagination
-Simple examples of server-side pagination.
-
-### CSharp-Utility
-Utility methods for common validation tasks.
-
-### lock-or-unlock-a-file-in-windows
-Lock or unlock files in Windows using C#.
-
----
-
-## 📫 Contact
-- Email: yourmail@example.com
-- LinkedIn: (اگر داری)
-- Website: (اگر داری)
-
----
-
-Thanks for visiting my profile 🚀
+## Contact
+- GitHub: https://github.com/golnouri
+- Email: golnouri@gmail.com
