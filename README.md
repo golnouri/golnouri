@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**golnouri/golnouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mojtaba Golnouri, a full-stack .NET developer interested in building web applications, utilities, and practical tools.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. Here you can find some of my projects and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Interests
+- ASP.NET Core
+- C#
+- JavaScript
+- SQL Server & SQLite
+- Windows Forms
+- Web Development
+
+---
+
+## 📦 Popular Projects
+
+### JQuery-text-slider
+Examples of small UI projects.
+
+### Convert-Mbox-to-json
+Convert Gmail .mbox files to JSON using C#.
+
+### Client-Side-Pagination
+Client side pagination in JavaScript.
+
+### Server-Side-Pagination
+Simple examples of server-side pagination.
+
+### CSharp-Utility
+Utility methods for common validation tasks.
+
+### lock-or-unlock-a-file-in-windows
+Lock or unlock files in Windows using C#.
+
+---
+
+## 📫 Contact
+- Email: yourmail@example.com
+- LinkedIn: (اگر داری)
+- Website: (اگر داری)
+
+---
+
+Thanks for visiting my profile 🚀
