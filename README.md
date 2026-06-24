@@ -1,4 +1,7 @@
-<div dir="rtl">
+<div dir="rtl" style="font-family: tahoma;
+  font-size: 10pt;
+  line-height: 28px;
+  text-align: justify;">
 
 ## معرفی فارسی
 
