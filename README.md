@@ -41,7 +41,7 @@
 * طراحی وب سایت موسسه زبان ایران کانادا: ircad.com
 
 ## تماس
-* آدرس ایمیل: lnouri@gmail.com
+* آدرس ایمیل: golnouri@gmail.com
 * شماره همراه: 09123146296
 * گیت هاب: github.com/golnouri
 </div>
