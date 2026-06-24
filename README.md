@@ -41,10 +41,10 @@
 * طراحی وب سایت موسسه زبان ایران کانادا: ircad.com
 
 ## تماس
-* آدرس ایمیل: golnouri@gmail.com
+* آدرس ایمیل: lnouri@gmail.com
 * شماره همراه: 09123146296
+* گیت هاب: github.com/golnouri
 </div>
-
 
 
 
@@ -52,11 +52,7 @@
 
 I'm **Mojtaba Golnouri**, a Systems Analyst and Software Developer.
 
-My interest in technology and programming began years before entering university. From an early age, I was fascinated by system analysis, solving complex problems, and designing practical software solutions. Over time, this passion evolved into my professional career.
-
-Today, I work in software analysis, design, and development, and I am also the founder and manager of the **Socket Platform**. Throughout my professional journey, I have gained extensive experience in designing and implementing software systems, web applications, and custom business solutions.
-
-If you need consultation, analysis, design, or development services for your idea, business, or software project, I would be happy to work with you.
+My interest in technology and programming began years before entering university. From an early age, I was fascinated by system analysis, solving complex problems, and designing practical software solutions. Over time, this passion evolved into my professional career. Today, I work in software analysis, design, and development, and I am also the founder and manager of the **Socket Platform**. Throughout my professional journey, I have gained extensive experience in designing and implementing software systems, web applications, and custom business solutions. If you need consultation, analysis, design, or development services for your idea, business, or software project, I would be happy to work with you.
 
 ## Skills
 
