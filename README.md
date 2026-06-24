@@ -1,16 +1,29 @@
-# Hello there 👋
-I'm Mojtaba Golnouri, an amateur programmer from the dinosaur generation who started coding years ago when building websites and multimedia software was much harder than it is today. Over the years I’ve worked on many personal and professional projects, mostly focused on web applications, backend systems, and practical tools that solve real problems. I enjoy building things that are simple, useful, and reliable.
+<div dir="rtl">
 
-## Skills
-- ASP.NET Core  
-- C#  
-- SQL Server  
+# سلام 👋
 
-## About Me
-I have experience in web development, backend systems, real-time applications, and software architecture.  
-I’ve worked both as a freelancer and in companies, contributing to different types of systems including portals, business tools, and custom applications.
-I’m always interested in learning, improving my skills, and building useful software.
+من **مجتبی گلنوری** هستم؛ برنامه‌نویسی که از سال‌ها پیش و از دوران وب‌سایت‌های استاتیک و نرم‌افزارهای چندرسانه‌ای وارد دنیای توسعه نرم‌افزار شدم. در طول این سال‌ها روی پروژه‌های شخصی و سازمانی متعددی فعالیت کرده‌ام که عمدتاً در حوزه سامانه‌های تحت وب، نرم‌افزارهای سازمانی و ابزارهای کاربردی بوده‌اند.
 
-## Contact
-- GitHub: https://github.com/golnouri
-- Email: golnouri@gmail.com
+همیشه علاقه‌مند بوده‌ام راهکارهایی طراحی کنم که در عین سادگی، کارآمد، قابل اعتماد و پاسخگوی نیازهای واقعی کاربران باشند.
+
+## مهارت‌ها
+
+* ASP.NET Core
+* C#
+* SQL Server
+
+## درباره من
+
+در زمینه طراحی و توسعه سامانه‌های تحت وب، نرم‌افزارهای بک‌اند، نرم‌افزارهای بلادرنگ (Real-Time) و معماری نرم‌افزار تجربه دارم.
+
+در طول فعالیت حرفه‌ای خود هم به‌صورت مستقل (Freelance) و هم در شرکت‌های مختلف فعالیت کرده‌ام و در توسعه انواع سامانه‌ها از جمله پورتال‌ها، نرم‌افزارهای سازمانی، ابزارهای مدیریتی و راهکارهای سفارشی مشارکت داشته‌ام.
+
+همواره در تلاش هستم دانش و مهارت‌های خود را گسترش دهم و نرم‌افزارهایی کاربردی، پایدار و ارزش‌آفرین تولید کنم.
+
+## راه‌های ارتباطی
+
+* GitHub: github.com/golnouri
+* Email: [golnouri@gmail.com](mailto:golnouri@gmail.com)
+* Phone: 09123146296
+
+</div>
