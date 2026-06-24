@@ -1,12 +1,7 @@
-# Hi there 👋
+# About Mojtaba Golnouri
+<img src="http://socketapp.ir/img/banner/socketapp-index.png" width="100%" alt="Mojtaba Golnouri">
 
-I'm **Mojtaba Golnouri**, a Software Engineer, Systems Analyst, and Software Developer with over a decade of experience in designing and developing software solutions.
-
-My passion for technology and programming started long before university. From an early age, I was fascinated by system analysis, solving complex problems, and creating practical software. Over time, this passion became my professional career.
-
-Today, I work as a software analyst, designer, and developer, and I am also the founder and manager of the **Socket Platform**. Throughout my career, I have designed and developed various web applications, business systems, and custom software solutions for different needs and industries.
-
-If you are looking for consultation, system analysis, software design, or application development for your business or project, I would be glad to help.
+I'm **Mojtaba Golnouri**, a Software Engineer, Systems Analyst, and Software Developer with over a decade of experience in designing and developing software solutions. My passion for technology and programming started long before university. From an early age, I was fascinated by system analysis, solving complex problems, and creating practical software. Over time, this passion became my professional career. Today, I work as a software analyst, designer, and developer, and I am also the founder and manager of the **Socket Platform**. Throughout my career, I have designed and developed various web applications, business systems, and custom software solutions for different needs and industries. If you are looking for consultation, system analysis, software design, or application development for your business or project, I would be glad to help.
 
 ## Projects
 
