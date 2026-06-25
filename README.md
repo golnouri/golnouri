@@ -44,6 +44,17 @@ My interest in technology and programming began years before entering university
 * Design and development of Computer Paytakht website: computerpaytakht.com
 * Design and development of Iran Canada Language Institute website: ircad.com
 
+## Technical Article
+The Application of Artificial Intelligence in Tax Assessment 
+Author: Mojtaba Golnouri 
+Headings: 
+* Practical Applications of Artificial Intelligence in Administrative Systems 
+* Social and Economic Challenges of AI-Lacking Systems in Tax Assessment 
+* Analyzing the Social and Ethical Impacts of Using AI in Decision-Making 
+* Proposing a Technical Model for Artificial Intelligence in Data Modeling and Analysis for Tax 
+Assessment 
+* Data Models and Machine Learning in Tax Assessment Using C# Programming Language 
+
 ## Contact
 
 * Email: [golnouri@gmail.com](mailto:golnouri@gmail.com)
