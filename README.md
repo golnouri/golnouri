@@ -45,8 +45,9 @@ My interest in technology and programming began years before entering university
 * Design and development of Iran Canada Language Institute website: ircad.com
 
 ## Technical Article
-The Application of Artificial Intelligence in Tax Assessment 
+The Application of Artificial Intelligence in Tax Assessment.
 Author: Mojtaba Golnouri 
+
 Headings: 
 * Practical Applications of Artificial Intelligence in Administrative Systems 
 * Social and Economic Challenges of AI-Lacking Systems in Tax Assessment 
