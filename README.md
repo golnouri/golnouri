@@ -46,9 +46,8 @@ My interest in technology and programming began years before entering university
 
 ## Technical Article
 The Application of Artificial Intelligence in Tax Assessment.
-Author: Mojtaba Golnouri 
 
-Headings: 
+** Headings: **
 * Practical Applications of Artificial Intelligence in Administrative Systems 
 * Social and Economic Challenges of AI-Lacking Systems in Tax Assessment 
 * Analyzing the Social and Ethical Impacts of Using AI in Decision-Making 
