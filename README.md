@@ -11,8 +11,8 @@ My interest in technology and programming began years before entering university
 * ASP.NET Core
 * REST API Design, JWT, Swagger/OpenAPI
 * SignalR (Real-Time Comm.)
-* ML models with ML.NET 
-• NLP & Data Analysis 
+* ML models with ML.NET
+* NLP & Data Analysis 
 * SQL Server
 * MongoDB
 * Redis
